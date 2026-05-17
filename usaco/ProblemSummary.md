@@ -1,0 +1,21 @@
+# USACO Problem Summary
+
+## 2025-2026 Season
+
+### Round 1 ###
+
+- Bronze-1: Chip Exchange - Adhoc Math
+- Bronze-2: COW Splits - Adhoc String
+- Bronze-3: Photoshoot - Adhoc Prefix Sum?
+
+### Round 2 ###
+
+- Bronze-1: It's Mooin' Time IV - Adhoc String, Greedy
+- Bronze-2: Moo Hunt - Bit Ops
+- Bronze-3: Purchasing Milk - Greedy, Bit Ops?
+
+### Round 3 ###
+
+- Bronze-1: Make All Distinct - Adhoc, Greedy
+- Bronze-2: Strange Function - Big Num
+- Bronze-3: Swap to Win - Adhoc String

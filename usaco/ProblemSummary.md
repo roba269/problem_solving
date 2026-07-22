@@ -22,23 +22,27 @@
 
 ## 2024-2025 Season
 
-### Round 1 ###
+### Round 1 (2024 Dec) ###
 
 - Bronze-1: Roundabout Rounding - Adhoc Math
 - Bronze-2: Farmer John's Cheese Block - Adhoc Count
-- It's Mooin' Time - Adhoc String
+- Bronze-3: It's Mooin' Time - Adhoc String
 
-### Round 2 ###
+### Round 2 (2025 Jan) ###
 
-- Astral Superposition:
-- It's Mooin' Time II:
-- Cow Checkups:
+- Bronze-1: Astral Superposition:
+- Bronze-2: It's Mooin' Time II:
+- Bronze-3: Cow Checkups:
 
-### Round 3 ###
+### Round 3 (2025 Feb) ###
+
+- Bronze-1: Reflection - Adhoc string, Greedy
+- Bronze-2: Making Mexes - Greedy
+- Bronze-3: Printing Sequences - Adhoc (hard)
 
 ### 2025 Open Ccontest ###
 
 - Bronze-1: Hoof Paper Scissors Minus One - Adhoc Math
 - Bronze-2: More Cow Photos - Greedy
-- Bronze-3: It's Mooin' Time III - Adhoc, Precomputation 
-
+- Bronze-3: It's Mooin' Time III - Adhoc, Precomputation (hard)
+- Silver-1: Sequence Construction - Bitwise Operation, Construction

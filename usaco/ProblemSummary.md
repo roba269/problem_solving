@@ -46,3 +46,5 @@
 - Bronze-2: More Cow Photos - Greedy
 - Bronze-3: It's Mooin' Time III - Adhoc, Precomputation (hard)
 - Silver-1: Sequence Construction - Bitwise Operation, Construction
+- Silver-2: Compatible Pairs - Greedy, Graph
+
